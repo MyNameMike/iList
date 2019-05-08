@@ -1,4 +1,4 @@
-.todolist-main .header input {
+.todolist-main .add-elem input {
     padding: 10px;
     font-size: 16px;
     border: 2px solid #fff;
@@ -7,7 +7,7 @@
     border-bottom-left-radius: 5px;
 }
 
-.todolist-main .header button {
+.todolist-main .add-elem button {
     padding: 10px;
     font-size: 16px;
     margin-right: 0px;
@@ -18,7 +18,7 @@
     border-bottom-right-radius: 5px;
 }
 
-.todolist-main .header button:hover {
+.todolist-main .add-elem button:hover {
     background-color: #003399;
     border: 2px solid #003399;
     cursor: pointer;
